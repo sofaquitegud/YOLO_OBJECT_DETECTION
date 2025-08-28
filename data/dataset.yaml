@@ -1,0 +1,8 @@
+path: C:/Users/syafi/Desktop/assignment/data/processed
+train: C:/Users/syafi/Desktop/assignment/data/processed/train/images
+val: C:/Users/syafi/Desktop/assignment/data/processed/val/images
+test: C:/Users/syafi/Desktop/assignment/data/processed/test/images
+
+names:
+  0: live
+  1: spoof
